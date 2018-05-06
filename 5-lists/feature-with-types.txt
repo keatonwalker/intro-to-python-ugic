@@ -1,0 +1,4 @@
+path,fields,types
+lists_data.gdb\Schools,DISTRICT|SCHOOL|EDTYPE,String|String|String
+lists_data.gdb\Municipalities,NAME|FIPS|POPLASTESTIMATE,String|String|Integer
+lists_data.gdb\SchoolBoardDistricts,Shape|DIST|COLOR4,Geometry|SmallInteger|Integer
