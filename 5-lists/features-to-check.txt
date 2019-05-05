@@ -1,4 +1,4 @@
-path,fields,types
-lists_data.gdb\Schools,DISTRICT|SCHOOL|EDTYPE,empty
-lists_data.gdb\Municipalities,NAME|FIPS|POPLASTESTIMATE,empty
-lists_data.gdb\SchoolBoardDistricts,Shape|DIST|COLOR4,empty
+path,fields
+lists_data.gdb\Schools,DISTRICT|SCHOOL|EDTYPE
+lists_data.gdb\Municipalities,NAME|FIPS|POPLASTESTIMATE
+lists_data.gdb\SchoolBoardDistricts,Shape|DIST|COLOR4
